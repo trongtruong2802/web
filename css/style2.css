@@ -76,6 +76,7 @@ html {
 
 .header-bottom li img {
     width: 100px;
+    height: 100px;
 }
 
 .nav li:hover .subnav {
